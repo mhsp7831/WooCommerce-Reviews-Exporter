@@ -11,7 +11,9 @@ A plugin for exporting WooCommerce product reviews to CSV format with Persian da
 - پشتیبانی از تاریخ شمسی در نام فایل و محتوای CSV
 - مدیریت خودکار فایل‌های قدیمی (حذف خودکار پس از 24 ساعت)
 - لاگ کردن عملیات‌ها برای عیب‌یابی
+
 <br />
+
 - Export WooCommerce product reviews to CSV
 - Filter reviews by date range
 - Persian date support in filenames and CSV content
