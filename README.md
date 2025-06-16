@@ -2,7 +2,7 @@
 
 افزونه‌ای برای خروجی گرفتن نظرات محصولات ووکامرس به صورت فایل CSV با پشتیبانی از تاریخ شمسی.
 
-    A plugin for exporting WooCommerce product reviews to CSV format with Persian date support.
+A plugin for exporting WooCommerce product reviews to CSV format with Persian date support.
 
 ## امکانات | Features
 
