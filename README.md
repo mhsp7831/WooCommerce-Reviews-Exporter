@@ -25,7 +25,9 @@ A plugin for exporting WooCommerce product reviews to CSV format with Persian da
 - وردپرس نسخه 5.0 یا بالاتر
 - ووکامرس نسخه 3.0 یا بالاتر
 - PHP نسخه 7.4 یا بالاتر
+
 <br />
+
 - WordPress 5.0 or higher
 - WooCommerce 3.0 or higher
 - PHP 7.4 or higher
@@ -35,7 +37,9 @@ A plugin for exporting WooCommerce product reviews to CSV format with Persian da
 1. فایل‌های افزونه را در مسیر `wp-content/plugins/wc-reviews-exporter` قرار دهید
 2. افزونه را از بخش افزونه‌های وردپرس فعال کنید
 3. به بخش "خروجی نظرات" در منوی وردپرس مراجعه کنید
+
 <br />
+
 1. Place plugin files in `wp-content/plugins/wc-reviews-exporter`
 2. Activate the plugin from WordPress plugins section
 3. Navigate to "Reviews Export" in WordPress menu
@@ -47,7 +51,9 @@ A plugin for exporting WooCommerce product reviews to CSV format with Persian da
 3. فیلدهای مورد نظر برای خروجی را انتخاب کنید
 4. روی دکمه "خروجی CSV" کلیک کنید
 5. فایل CSV با نام مناسب دانلود خواهد شد
+
 <br />
+
 1. Go to "Reviews Export" in WordPress menu
 2. Select desired date range (optional)
 3. Choose fields to export
@@ -62,7 +68,9 @@ A plugin for exporting WooCommerce product reviews to CSV format with Persian da
 - با انتخاب تاریخ شروع: `reviews_from_1404-03-01_14040326174553.csv`
 - با انتخاب تاریخ پایان: `reviews_to_1404-03-30_14040326174623.csv`
 - بدون انتخاب تاریخ: `reviews_all-time_14040326174623.csv`
+
 <br />
+
 Export filenames will be in the following format:
 
 - With both dates: `reviews_1404-03-01_1404-03-30_14040326174508.csv`
