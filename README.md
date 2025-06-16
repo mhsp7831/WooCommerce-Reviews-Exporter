@@ -34,15 +34,19 @@ A plugin for exporting WooCommerce product reviews to CSV format with Persian da
 
 ## نصب | Installation
 
-1. فایل‌های افزونه را در مسیر `wp-content/plugins/wc-reviews-exporter` قرار دهید
-2. افزونه را از بخش افزونه‌های وردپرس فعال کنید
-3. به بخش "خروجی نظرات" در منوی وردپرس مراجعه کنید
+1. فایل zip افزونه را از بخش [Releases](https://github.com/mhsp7831/wc-reviews-exporter/releases) دانلود کنید
+2. به بخش افزونه‌های وردپرس بروید و روی "افزودن افزونه" کلیک کنید
+3. روی "بارگذاری افزونه" کلیک کنید و فایل zip را انتخاب کنید
+4. پس از نصب، روی "فعال کردن" کلیک کنید
+5. به بخش "خروجی نظرات" در منوی وردپرس مراجعه کنید
 
 <br />
 
-1. Place plugin files in `wp-content/plugins/wc-reviews-exporter`
-2. Activate the plugin from WordPress plugins section
-3. Navigate to "Reviews Export" in WordPress menu
+1. Download the plugin zip file from [Releases](https://github.com/mhsp7831/WooCommerce-Reviews-Exporter/releases)
+2. Go to WordPress plugins section and click "Add New"
+3. Click "Upload Plugin" and select the zip file
+4. After installation, click "Activate"
+5. Navigate to "Reviews Export" in WordPress menu
 
 ## نحوه استفاده | Usage
 
