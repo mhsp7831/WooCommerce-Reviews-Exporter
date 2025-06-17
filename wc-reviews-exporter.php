@@ -86,8 +86,6 @@ class WC_Reviews_Exporter {
         
         // Load plugin classes
         require_once WC_REVIEWS_EXPORTER_PLUGIN_DIR . 'includes/class-persian-date.php';
-        require_once WC_REVIEWS_EXPORTER_PLUGIN_DIR . 'includes/class-csv-generator.php';
-        require_once WC_REVIEWS_EXPORTER_PLUGIN_DIR . 'includes/class-batch-processor.php';
         require_once WC_REVIEWS_EXPORTER_PLUGIN_DIR . 'admin/class-admin-menu.php';
         require_once WC_REVIEWS_EXPORTER_PLUGIN_DIR . 'admin/class-export-handler.php';
     }
